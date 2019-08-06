@@ -70,3 +70,25 @@ The airtable component is used in the app. To make your own airtable storage to 
 
 - **deletionrequests**
   - uid
+  
+## Color Palette
+
+- #f2f4f6 (Light Primary)
+- #1ee3cf (Light Secondary)
+
+- #6b48ff (Dark Primary)
+- #525252 (Dark Secondary)
+- #0d3f67 (Dark Tertiary
+
+Visit https://colorhunt.co/palette/148116 for a preview of the color palette.
+
+## Design Standards
+
+- All screens are **CENTER** aligned horizontally and **TOP** aligned vertically
+- Each screen has a padding of **5%** on the left and the right only
+- Border radius used on buttons is **10px**
+- Border radius used on card style view and list views is **30px**
+- All components (excluding those which have an Alpha component to their color) are raised with an elevation of **5**
+- Back navigation/other secondary buttons are smaller than the primary button
+- Error and Success messages must all use the same 2 Alert components but the message can vary per usage
+
