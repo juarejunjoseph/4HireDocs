@@ -29,44 +29,44 @@ The airtable component is used in the app. To make your own airtable storage to 
 ## Airtable Table Column Headers
 
 - **users**
- - useruid
- - email
- - useridnum
- - name
- - phonenum
- - bio
- - linktocv
- - creationdate (automatically set by airtable when record is created)
- - profilepicurl
- - jobapplications
+  - useruid
+  - email
+  - useridnum
+  - name
+  - phonenum
+  - bio
+  - linktocv
+  - creationdate (automatically set by airtable when record is created)
+  - profilepicurl
+  - jobapplications
       
 - **businesses**
- - businessuid
- - email
- - name
- - phone
- - location
- - businessname
- - joblistings
- - creationdate
- - businesswebsite
- - logourl
-    
+  - businessuid
+  - email
+  - name
+  - phone
+  - location
+  - businessname
+  - joblistings
+  - creationdate
+  - businesswebsite
+  - logourl
+     
 - **jobslist**
- - businessrownum
- - jobnum
- - businessname
- - available
- - skills
- - startdate
- - finishdate
- - jobtype
- - description
- - applicants
- - salary
- - salarytype
- - worktimequantity
- - listingdate
+  - businessrownum
+  - jobnum
+  - businessname
+  - available
+  - skills
+  - startdate
+  - finishdate
+  - jobtype
+  - description
+  - applicants
+  - salary
+  - salarytype
+  - worktimequantity
+  - listingdate
 
 - **deletionrequests**
- - uid
+  - uid
