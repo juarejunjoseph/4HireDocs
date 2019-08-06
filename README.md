@@ -26,7 +26,7 @@ The airtable component is used in the app. To make your own airtable storage to 
 - **deletionrequests** - this table is still under development but its purpose is: users can delete their account and their UID is stored here so it can be looked up on firebase authentication so that their account can be deleted
   
   
-## Airtable Table Column Headers
+### Airtable Table Column Headers
 
 - **users**
   - useruid
